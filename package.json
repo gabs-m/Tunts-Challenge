@@ -1,0 +1,22 @@
+{
+  "name": "desafio-tunts",
+  "version": "1.0.0",
+  "description": "Tunts challenge resolution",
+  "main": "main/index.js",
+  "scripts": {
+    "start": "node main/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabs-m/Tunts-Challenge.git"
+  },
+  "author": "Gabriel Ângelo de Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabs-m/Tunts-Challenge/issues"
+  },
+  "homepage": "https://github.com/gabs-m/Tunts-Challenge#readme",
+  "dependencies": {
+    "google-spreadsheet": "^3.1.15"
+  }
+}
